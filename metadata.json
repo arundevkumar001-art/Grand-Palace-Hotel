@@ -1,0 +1,6 @@
+{
+  "name": "Grand Palace Hotel - 5-Star Luxury in New Delhi",
+  "description": "Experience luxury and feel at home at Grand Palace Hotel, Connaught Place, New Delhi. Featuring exquisite rooms, suites, fine dining, pool, and online reservations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
